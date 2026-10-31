@@ -1,0 +1,283 @@
+{
+  "resumes": [
+    {
+      "fullname": "Maxmiller ",
+      "location": "Vegas",
+      "job": "UI/UX Designer",
+      "phone": "3412675489",
+      "email": "maxmiller@gmail.com",
+      "linkedin": "max@linkedin.com",
+      "github": "max@github.com",
+      "degree": "Mtech",
+      "college": "BMKD",
+      "year": "2026",
+      "skills": [
+        "JavaScript",
+        "Python",
+        "Java",
+        "Object-Oriented Programming",
+        "Data Structures",
+        "Algorithms",
+        "Git",
+        "REST APIs",
+        "Debugging",
+        "Software Testing"
+      ],
+      "summary": "Results-driven software developer with strong experience in designing, developing, and maintaining scalable applications. Skilled in programming, debugging, and implementing efficient software solutions using modern development practices.",
+      "id": "xZrSmaN6Ylc"
+    },
+    {
+      "fullname": "max",
+      "location": "US",
+      "job": "Data Analyst",
+      "phone": "56123425",
+      "email": "max@gmail.com",
+      "linkedin": "max@linkedin.com",
+      "github": "max@github.com",
+      "degree": "Btech",
+      "college": "SDEW",
+      "year": "2025",
+      "skills": [
+        "SQL",
+        "Excel",
+        "Python",
+        "Data Visualization",
+        "Power BI",
+        "Tableau",
+        "Data Cleaning",
+        "Statistical Analysis",
+        "Pandas",
+        "NumPy"
+      ],
+      "summary": "Detail-oriented data analyst skilled in collecting, analyzing, and interpreting complex datasets to support business decisions. Experienced in data visualization and reporting tools.",
+      "id": "kAC_8_8j_do"
+    },
+    {
+      "fullname": "Williams",
+      "location": "bbchbdgh",
+      "job": "Data Scientist",
+      "phone": "34266123883",
+      "email": "willliams@gmail.com",
+      "linkedin": "jshhd",
+      "github": "fhddfheh",
+      "degree": "Btech",
+      "college": "hgter",
+      "year": "2024",
+      "skills": [
+        "Python",
+        "Machine Learning",
+        "Statistics",
+        "Data Visualization",
+        "Pandas",
+        "NumPy",
+        "Deep Learning",
+        "Model Evaluation",
+        "Data Wrangling",
+        "SQL"
+      ],
+      "summary": "Data scientist with expertise in machine learning, statistical analysis, and predictive modeling. Skilled in transforming large datasets into actionable insights.",
+      "id": "P9ZLM7D5GBs"
+    },
+    {
+      "fullname": "John",
+      "location": "NewYork",
+      "job": "Machine Learning Engineer",
+      "phone": "87654321",
+      "email": "john@gmail.com",
+      "linkedin": "jonh@linkedin.com",
+      "github": "john@github.com",
+      "degree": "Btech",
+      "college": "TYHR",
+      "year": "2026",
+      "skills": [
+        "Python",
+        "TensorFlow",
+        "PyTorch",
+        "Scikit-learn",
+        "Deep Learning",
+        "Data Preprocessing",
+        "Model Deployment",
+        "Natural Language Processing",
+        "Computer Vision",
+        "MLOps"
+      ],
+      "summary": "Machine learning engineer experienced in developing, training, and deploying machine learning models. Skilled in data preprocessing, model evaluation, and AI-driven solution development.",
+      "id": "rkARh-kMDO4"
+    },
+    {
+      "fullname": "James",
+      "location": "Texas",
+      "job": "Digital Marketing Specialist",
+      "phone": "7645234156",
+      "email": "james@gmail.com",
+      "linkedin": "james@linkedin.com",
+      "github": "james@github.com",
+      "degree": "BE",
+      "college": "ASWR",
+      "year": "2022",
+      "skills": [
+        "SEO",
+        "Social Media Marketing",
+        "Content Marketing",
+        "Email Marketing",
+        "Google Analytics",
+        "PPC Advertising",
+        "Campaign Management",
+        "Keyword Research",
+        "Marketing Strategy",
+        "Conversion Optimization"
+      ],
+      "summary": "Digital marketing specialist skilled in SEO, social media marketing, and campaign management to increase brand visibility and customer engagement.",
+      "id": "BbutsNeObyo"
+    },
+    {
+      "fullname": "Gouri",
+      "location": "Gujarath",
+      "job": "Full Stack Developer",
+      "phone": "546378134",
+      "email": "gouri@gmail.com",
+      "linkedin": "gouri@linkedin.com",
+      "github": "gouri@github.com",
+      "degree": "BTech",
+      "college": "AMCS",
+      "year": "2022",
+      "skills": [
+        "JavaScript",
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "HTML",
+        "CSS",
+        "REST APIs",
+        "Git",
+        "Deployment"
+      ],
+      "summary": "Full stack developer with hands-on experience in developing end-to-end web applications using both frontend and backend technologies. Adept at building scalable systems and delivering high-quality solutions.",
+      "id": "gQeMKG0is-g"
+    },
+    {
+      "fullname": "Alex",
+      "location": "Vegas",
+      "job": "Business Analyst",
+      "phone": "8965341245",
+      "email": "alex@gmail.com",
+      "linkedin": "alex@linkedin.com",
+      "github": "alex@github.com",
+      "degree": "BTech",
+      "college": "TYHJ",
+      "year": "2020",
+      "skills": [
+        "Requirement Gathering",
+        "Business Process Analysis",
+        "Data Analysis",
+        "Stakeholder Communication",
+        "Documentation",
+        "Process Improvement",
+        "SQL",
+        "Agile Methodology",
+        "Problem Solving",
+        "Reporting"
+      ],
+      "summary": "Business analyst experienced in analyzing business processes, gathering requirements, and providing data-driven insights to support strategic decision-making.",
+      "id": "8dmm3unQ3lY"
+    },
+    {
+      "fullname": "Megha",
+      "location": "Maharashtra",
+      "job": "DevOps Engineer",
+      "phone": "7865674324",
+      "email": "megha@gmail.com",
+      "linkedin": "megha@linkedin.com",
+      "github": "megha@github.com",
+      "degree": "BE",
+      "college": "HTHU",
+      "year": "2023",
+      "skills": [
+        "Docker",
+        "Kubernetes",
+        "CI/CD",
+        "AWS",
+        "Linux",
+        "Jenkins",
+        "Terraform",
+        "Git",
+        "Monitoring",
+        "Infrastructure as Code"
+      ],
+      "summary": "DevOps engineer experienced in automating deployment pipelines, managing cloud infrastructure, and improving software delivery processes through CI/CD practices.",
+      "id": "LMCqjaQ3VXM"
+    },
+    {
+      "fullname": "Smith ",
+      "location": "London",
+      "job": "Graphic Designer",
+      "phone": "65748324154",
+      "email": "smith@gmail.com",
+      "linkedin": "smith@linkedin.com",
+      "github": "smith@github.com",
+      "degree": "BE",
+      "college": "ACES",
+      "year": "2020",
+      "skills": [
+        "Adobe Photoshop",
+        "Adobe Illustrator",
+        "Typography",
+        "Brand Identity Design",
+        "Layout Design",
+        "Color Theory",
+        "Creative Thinking",
+        "Visual Communication",
+        "Logo Design",
+        "Image Editing"
+      ],
+      "summary": "Creative graphic designer with expertise in visual communication, branding, and digital design. Skilled in using modern design tools to create compelling visual content.",
+      "id": "bjeImZiNpfE"
+    }
+  ],
+  "downloads": [
+    {
+      "timestamp": "10/29/2026, 10:47:21 AM",
+      "resumeImg": "https://res.cloudinary.com/ub2zzewy/image/upload/v1793251040/zkzxhupeqmdwzfttn1wb.png",
+      "resumeId": "xZrSmaN6Ylc",
+      "jobRole": "UI/UX Designer",
+      "id": "u15slgiBjMI"
+    },
+    {
+      "timestamp": "10/29/2026, 10:47:45 AM",
+      "resumeImg": "https://res.cloudinary.com/ub2zzewy/image/upload/v1793251066/rbcgoes791fnvuii2q05.png",
+      "resumeId": "xZrSmaN6Ylc",
+      "jobRole": "UI/UX Designer",
+      "id": "Gps8_WXGqVw"
+    },
+    {
+      "timestamp": "10/29/2026, 11:21:44 AM",
+      "resumeImg": "https://res.cloudinary.com/ub2zzewy/image/upload/v1793253105/qzhtnofdfoqmktigkofr.png",
+      "resumeId": "kAC_8_8j_do",
+      "jobRole": "Data Analyst",
+      "id": "l7XfHLeejAI"
+    },
+    {
+      "timestamp": "10/29/2026, 11:22:04 AM",
+      "resumeImg": "https://res.cloudinary.com/ub2zzewy/image/upload/v1793253126/sndqvat7p4dkdtzyxruh.png",
+      "resumeId": "kAC_8_8j_do",
+      "jobRole": "Data Analyst",
+      "id": "XtEUVNVnXP8"
+    },
+    {
+      "timestamp": "10/29/2026, 11:22:17 AM",
+      "resumeImg": "https://res.cloudinary.com/ub2zzewy/image/upload/v1793253138/uzcrcuab5uyxmq28kupl.png",
+      "resumeId": "P9ZLM7D5GBs",
+      "jobRole": "Data Scientist",
+      "id": "KfKMO9THKw0"
+    },
+    {
+      "timestamp": "10/29/2026, 11:25:40 AM",
+      "resumeImg": "https://res.cloudinary.com/ub2zzewy/image/upload/v1793253341/cr2o8593buxhbv2xec8j.png",
+      "resumeId": "P9ZLM7D5GBs",
+      "jobRole": "Data Scientist",
+      "id": "2Os_mr1QlwE"
+    }
+  ]
+
+}

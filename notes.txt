@@ -1,0 +1,12 @@
+-Deploy JSON server
+    - create index.js file in server folder
+    - inside index.js file define steps to run json-server using node
+      - import json-server package
+      - create server for running json file using json-server package
+      - setup route /url for json file that should be run by the server
+      - parse the json data before node process. use a middleware in node js 
+      - create port number to run appp in server
+      - use json middleware in the server app
+      - use router in the server app
+      - run the server app in the given port ,commmand for run the server app : node index.js
+        - 
